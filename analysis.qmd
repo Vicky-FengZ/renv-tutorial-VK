@@ -5,3 +5,13 @@ editor: visual
 ---
 
 ## 
+```{r}
+library(palmerpenguins)
+
+data(penguins)
+df <- penguins
+summary(penguins)
+
+
+```
+
